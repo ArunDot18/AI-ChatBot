@@ -1,5 +1,5 @@
-# 🤖 **Chatly**  
-Chatly is a responsive and interactive chatbot application powered by React. It provides intelligent, real-time conversational experiences, leveraging the power of Google Gemini API for advanced AI-driven responses. The app is designed with a sleek, modern dark mode UI styled using Tailwind CSS for enhanced user experience.  
+# 🤖 **PixoBot**  
+PixoBot is a responsive and interactive chatbot application powered by React. It provides intelligent, real-time conversational experiences, leveraging the power of Google Gemini API for advanced AI-driven responses. The app is designed with a sleek, modern dark mode UI styled using Tailwind CSS for enhanced user experience.  
 
 ## 🚀 **Features**  
 - **AI-Powered Responses:** Real-time intelligent answers using Google Gemini API.  
