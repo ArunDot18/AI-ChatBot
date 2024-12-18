@@ -42,7 +42,7 @@ function App() {
     <div className="flex flex-col h-screen bg-gray-900 text-gray-200 p-4">
 
       <div className="flex items-center justify-between p-4 bg-gray-800 text-white rounded-t-lg shadow-md">
-        <h2 className="flex items-center text-2xl font-bold">AI Chatb<RiRobot2Fill/>t</h2>
+        <h2 className="flex items-center text-2xl font-bold">PixoB<RiRobot2Fill/>t</h2>
         <button
           onClick={clearChat}
           className="w-18 p-2 bg-red-600 rounded-lg"
