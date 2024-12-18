@@ -5,7 +5,6 @@ Chatly is a responsive and interactive chatbot application powered by React. It 
 - **AI-Powered Responses:** Real-time intelligent answers using Google Gemini API.  
 - **Persistent Chat History:** Chats are saved locally, so you never lose your conversation.  
 - **Dark Mode Interface:** Stylish dark-themed UI for better usability.  
-- **Loading Indicator:** Displays a subtle loader while waiting for responses.  
 - **Clear Chat:** Easily reset your conversation with a single click.  
 
 ## 🛠️ **Technologies Used**  
@@ -14,4 +13,3 @@ Chatly is a responsive and interactive chatbot application powered by React. It 
 - **Tailwind CSS:** For creating a responsive, modern, and customizable UI.  
 - **React Icons:** For visually appealing icons.  
 - **LocalStorage:** For persistent chat history across sessions.  
-- **ThreeDots Loader:** Intuitive loading indicator for better UX.  
